@@ -1,0 +1,16 @@
+NUAN_peg.jpeg 0.55
+LITE_peg.jpeg 1.34
+MOMO_peg.jpeg 0.09
+BABA_peg.jpeg 1.63
+AMZN_peg.jpeg 0.00
+GOOG_peg.jpeg 0.09
+FB_peg.jpeg 0.03
+SPY_peg.jpeg 0.09
+ALGN_peg.jpeg 1.31
+BRK.B_peg.jpeg 0.09
+NVDA_peg.jpeg 3.65
+AAPL_peg.jpeg 1.13
+TWTR_peg.jpeg 0.09
+ROKU_peg.jpeg 77.75
+CMCM_peg.jpeg 0.09
+NFLX_peg.jpeg 12.37
