@@ -73,6 +73,6 @@ for x in range(len(stock_list)):
     except:
         print ("error message!")
     s2 = "{:.2f}".format( peg ) # new
-    file.write(file_name + ' ' + s2 +'\n') 
+    file.write(file_name + '\t\t' + s2 +'\n') 
 
 file.close() 

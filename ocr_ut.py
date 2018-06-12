@@ -1,4 +1,4 @@
-import ocr
+#import ocr
 import tesseract
 import pytesseract
 
